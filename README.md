@@ -32,11 +32,11 @@ Correlation is a statistical measure that describes the degree and direction of 
 ```
 This is most important to find the Correlation between two factors of your data in this project
 where
-    𝑛= number of data points
-    𝑥= first variable
-    𝑦= second variable
-    ∑𝑥𝑦= sum of the product of each pair of 𝑥 and 𝑦
-    ∑𝑥2= sum of the square of first Variable 
-    ∑𝑦2= sum of the square of second Variable 
+   * 𝑛= number of data points
+   * 𝑥= first variable
+   * 𝑦= second variable
+   * ∑𝑥𝑦= sum of the product of each pair of 𝑥 and 𝑦
+   * ∑𝑥2= sum of the square of first Variable 
+   * ∑𝑦2= sum of the square of second Variable 
 
 Kindly Notify me your Feedback for this project.
