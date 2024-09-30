@@ -23,11 +23,11 @@ The dataset includes customer information such as:
 
 ## Correlation:
 Correlation is a statistical measure that describes the degree and direction of the relationship between two variables. It helps to understand whether and how strongly pairs of variables are related.
-**Formula for Pearson Correlation Coefficient**:
-'''
+ **Formula for Pearson Correlation Coefficient**:
+```
                             𝑛(∑𝑥𝑦)−(∑𝑥)(∑𝑦)
                     r=  ------------------------------
                         sqrt([𝑛∑𝑥2−(∑𝑥)2][𝑛∑𝑦2−(∑𝑦)2])
-'''
+```
 This is most important to find the Correlation between two factors of your data in this project
 
