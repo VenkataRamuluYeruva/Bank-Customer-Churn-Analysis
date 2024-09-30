@@ -21,3 +21,13 @@ The dataset includes customer information such as:
 8. EstimatedSalary: The estimated salary of the customer.
 9. Exited: Indicates if the customer has churned (1 for yes, 0 for no).
 
+## Correlation:
+Correlation is a statistical measure that describes the degree and direction of the relationship between two variables. It helps to understand whether and how strongly pairs of variables are related.
+**Formula for Pearson Correlation Coefficient**:
+'''
+                            𝑛(∑𝑥𝑦)−(∑𝑥)(∑𝑦)
+                    r=  ------------------------------
+                        sqrt([𝑛∑𝑥2−(∑𝑥)2][𝑛∑𝑦2−(∑𝑦)2])
+'''
+This is most important to find the Correlation between two factors of your data in this project
+
