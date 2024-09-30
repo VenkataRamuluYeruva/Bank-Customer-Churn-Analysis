@@ -11,12 +11,13 @@ The Bank Customer Churn Analysis project is focused on understanding customer be
 ## Dataset:
 The dataset includes customer information such as:
 
-1.CustomerId: Unique identifier for each customer.
-2.CreditScore: Credit score of the customer.
-3.Tenure: Duration of the relationship with the bank (in years).
-4.Balance: The current balance in the customer's account.
-5.NumOfProducts: Number of financial products the customer has with the bank.
-6.HasCrCard: Whether the customer holds a credit card with the bank (1 for yes, 0 for no).
-7.IsActiveMember: Whether the customer is an active member (1 for yes, 0 for no).
-8.EstimatedSalary: The estimated salary of the customer.
-9.Exited: Indicates if the customer has churned (1 for yes, 0 for no).
+1. CustomerId: Unique identifier for each customer.
+2. CreditScore: Credit score of the customer.
+3. Tenure: Duration of the relationship with the bank (in years).
+4. Balance: The current balance in the customer's account.
+5. NumOfProducts: Number of financial products the customer has with the bank.
+6. HasCrCard: Whether the customer holds a credit card with the bank (1 for yes, 0 for no).
+7. IsActiveMember: Whether the customer is an active member (1 for yes, 0 for no).
+8. EstimatedSalary: The estimated salary of the customer.
+9. Exited: Indicates if the customer has churned (1 for yes, 0 for no).
+
